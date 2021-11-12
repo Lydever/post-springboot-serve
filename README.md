@@ -1,7 +1,7 @@
 # post-springboot-serve
 日记发布后台服务端
 
-# 技术
+# 技术选型
 - Spring Boot
 - MyBatis
 - MySQL 5.7
